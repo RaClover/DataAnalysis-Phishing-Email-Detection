@@ -1,2 +1,2 @@
 # DataAnalysis-Phishing-Email-Detection
-ANalys code to do Phishing Email Detection
+The code analyzes a collection of emails and predicts whether each email is a phishing email (suspicious) or a valid email (legitimate). It extracts various features from the emails, such as the email content, sender's information, and URLs present. These features are used to train a machine learning model (Random Forest Classifier) to learn patterns and make predictions. The code then evaluates the model's accuracy and precision in classifying emails as phishing or valid. Overall, the code helps identify and classify suspicious emails to protect against phishing attempts.
